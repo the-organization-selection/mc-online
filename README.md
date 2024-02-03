@@ -16,13 +16,13 @@ Please give this repo a star if you want to host it!
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/online-mc/online-mc.github.io)
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/online-mc/online-mc.github.io)
 ## those who decided to give this repo a star and fork it :
-[![Stargazers repo roster for @radmanplays/radmanplays.github.io](http://reporoster.com/stars/online-mc/online-mc.github.io)](http://github.com/online-mc/online-mc.github.io/stargazers)
-[![Forkers repo roster for @radmanplays/radmanplays.github.io](http://reporoster.com/forks/online-mc/online-mc.github.io)](http://github.com/online-mc/online-mc.github.io/network/members)
+[![Stargazers repo roster for @the-organization-selection/mc-online](https://reporoster.com/stars/the-organization-selection/mc-online)](https://github.com/the-organization-selection/mc-online/stargazers)
+[![Forkers repo roster for @the-organization-selection/mc-online](https://reporoster.com/forks/the-organization-selection/mc-online)](https://github.com/the-organization-selection/mc-online/network/members)
 
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/online-mc/online-mc.github.io.svg)](https://starchart.cc/online-mc/online-mc.github.io)
+[![Stargazers over time](https://starchart.cc/online-mc/online-mc.github.io.svg)](https://starchart.cc/the-organization-selection/mc-online)
 
 ## feel free to make a pull request
 ## if you have any questions go to the Discussions tap and ask your question there!

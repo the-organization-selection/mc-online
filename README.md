@@ -1,7 +1,7 @@
 # PLEASE MAKE A FORK/[DOWNLOAD THIS REPO RN](https://codeload.github.com/online-mc/online-mc.github.io/zip/refs/heads/main), THIS REPO WILL BE DMCA'D
 ## Host the website
  
-You can host this website on a cloud hosting solution like Replit or Render here.
+You can host this website on a cloud hosting solution like Replit.
 Please give this repo a star if you want to host it!
 <br>
 

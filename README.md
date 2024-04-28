@@ -16,10 +16,10 @@ Please give this repo a star if you want to host it!
 
 [![Stargazers over time](https://starchart.cc/online-mc/online-mc.github.io.svg)](https://starchart.cc/the-organization-selection/mc-online)
 
-## feel free to make a pull request
-## if you have any questions go to the Discussions tap and ask your question there!
-### the committed pull requests are updated on the site automaticlly
-### if the website didnt work then use this github page : [https://radmanplays.github.io/](https://eaglercrack.vercel.app/)
-### the committed pull requests on the github page may take up to 30 secs to update
-### and also this is a google sites version of this website: https://sites.google.com/view/online-mc
+## Feel free to make a pull request
+## If you have any questions go to the Discussions tap and ask your question there!
+### The committed pull requests are updated on the site automaticlly
+### If the website didnt work then use this github page : [https://grant7777.github.io/](https://nowaysomeonehasthis.vercel.app)
+### The committed pull requests on the GitHub page may take up to 30 secs to update. May take more because of the hosting service I use.
+### and also this is a google sites version of this website: [https://sites.google.com/view/online-mc](https://sites.google.com/view/mconlines/not-home)
 
